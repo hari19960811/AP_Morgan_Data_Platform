@@ -1,0 +1,9 @@
+{
+	"name": "apmorganfactorydata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a02cef53-d85a-4af9-9d44-1845c96c85e4",
+		"tenantId": "bdc3d6d3-2f68-49d2-b389-36dba0910b90"
+	}
+}
